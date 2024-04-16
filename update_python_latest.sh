@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# requirements: 
+# need to have python3 installed (tested with 3.10) 
+
 # Stop script on any error
 set -e
 
